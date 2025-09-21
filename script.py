@@ -21,7 +21,7 @@ label start:
 
     scene bg OutsideRileyWorkEvening
 
-    play music "audio/SunflowerDrag.mp3"
+    play music "SunflowerDrag.mp3"
 
     show riley bored
 
