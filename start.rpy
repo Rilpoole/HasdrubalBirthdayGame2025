@@ -2,7 +2,10 @@
 Title: Happy Birthday Hasdrubal
 
 Synopsis:
-Riley needs to use his shitty white car to pick up Jonny and Daniel to get to Hasdrubal’s house for his birthday. But, when they get there he's not home. They search all over town, eventually finding him at Spud's and bringing him back to play a game of Apples to Apples where Riley cheats and Jonny and Daniel pretend not to notice. 
+Riley needs to use his shitty white car to pick up Jonny and Daniel to get to Hasdrubal’s house for his birthday. 
+But, when they get there he's not home. 
+They search all over town, eventually finding him at Spud's and bringing him back to play a game of Apples to Apples 
+where Riley cheats and Jonny and Daniel pretend not to notice. 
 
 basic scripting tutorial: 
 https://www.youtube.com/watch?v=C3Ldd-5PKCw
@@ -25,8 +28,8 @@ label start:
 
     show riley bored
 
-    r "My job is to extract money out of people for things they don't need..."
-    r "Helping people sucks."
+    r "My job is to extract money out of people for things they don't need."
+    r "Helping people sucks. (Butthead voice)"
 
     show riley happy
 
